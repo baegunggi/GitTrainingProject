@@ -8,5 +8,10 @@
 </head>
 <body>
     <h2>git 수업</h2>
+    <fieldset>
+    	<legend>깃 허브 연동</legend>
+    
+    
+    </fieldset>
 </body>
 </html>
