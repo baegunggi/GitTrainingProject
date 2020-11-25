@@ -8,5 +8,6 @@
 </head>
 <body>
 	<a href="../Index.jsp">메인으로</a>
+	<h2>응? 나 메카닉인데....</h2>
 </body>
 </html>
