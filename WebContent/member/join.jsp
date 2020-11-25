@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index.jsp</title>
+<title>Join.jsp</title>
 </head>
 <body>
-    <h2>git 수업</h2>
+
 </body>
 </html>
